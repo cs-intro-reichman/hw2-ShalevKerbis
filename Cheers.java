@@ -12,7 +12,7 @@ public class Cheers {
                 if ("AEFHILMNORSX".indexOf(wordUpperCase.charAt(i)) != -1){
                         System.out.println("Give me an " + wordUpperCase.charAt(i) + ": " + wordUpperCase.charAt(i) + "!");
                 } else {
-                        System.out.println("Give me a + " + wordUpperCase.charAt(i) + ": " + wordUpperCase.charAt(i) + "!");
+                        System.out.println("Give me a " + wordUpperCase.charAt(i) + ": " + wordUpperCase.charAt(i) + "!");
                 }
             }
 
