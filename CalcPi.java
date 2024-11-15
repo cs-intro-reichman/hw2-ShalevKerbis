@@ -30,6 +30,6 @@ public class CalcPi {
 		}
 		double piApproximated = 4 * (double) (sum - difference);
 		System.out.println("pi, according to Java: " + Math.PI);
-		System.out.println("pi, approximated:      " + piApproximated);
+		System.out.println("pi, approximated:     " + piApproximated);
 	}
 }
